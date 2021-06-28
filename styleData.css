@@ -1,0 +1,25 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #ffeb3b9e;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+}
+table {
+  width: 35%;
+  margin-left: 32%;
+}
+.title-header {
+  color: black;
+  font-size: 40px;
+  font-style: italic;
+  text-shadow: 2px 1px white;
+  padding-top: 10px;
+}
+body {
+  background-color: #607D8B;
+}
