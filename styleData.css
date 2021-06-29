@@ -23,6 +23,12 @@ table {
 body {
   background-color: #607D8B;
 }
-.head {
+.calibNum {
+  background-color: yellow;
+}
+.p1 {
+  background-color: yellow;
+}
+.p2 {
   background-color: yellow;
 }
