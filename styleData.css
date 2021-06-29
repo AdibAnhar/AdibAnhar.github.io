@@ -1,7 +1,7 @@
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: #ffeb3b9e;
+  background-color: white;
 }
 th, td {
   padding: 5px;
@@ -22,13 +22,4 @@ table {
 }
 body {
   background-color: #607D8B;
-}
-.calibNum {
-  background-color: yellow;
-}
-.p1 {
-  background-color: yellow;
-}
-.p2 {
-  background-color: yellow;
 }
